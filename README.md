@@ -7,7 +7,7 @@
 <h2 align="left">Finished projects</h2>
 
 |                           Project                            |  Mark   |                                                      Language                                                      |
-| :----------------------------------------------------------: | :-----: | :----------------------------------------------------------------------------------------------------------------: |
+| :----------------------------------------------------------: | :-----: | :------------------------------------------------------------------------------------------------------------: |
 |        [Libft](https://github.com/ines-sainz/libft)          | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 | [get_next_line](https://github.com/ines-sainz/get_next_line) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |                         [printf](#)                          | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
@@ -30,6 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwindcss"/>
 
   <h3 align="left">Other:</h3>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
