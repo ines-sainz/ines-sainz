@@ -10,9 +10,9 @@
 | :----------------------------------------------------------: | :-----: | :------------------------------------------------------------------------------------------------------------: |
 |        [Libft](https://github.com/ines-sainz/libft)          | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 | [get_next_line](https://github.com/ines-sainz/get_next_line) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
-|                         [printf](#)                          | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
+|          [printf](https://github.com/ines-sainz/printf)      | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |                       [born2beroot](#)                       | 125/100 | <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/console.svg" width="30" height="30"> |
-|     [push_swap](https://github.com/ines-sainz/push_swap)     | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
+|     [push_swap](https://github.com/ines-sainz/push_swap)     | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |       [so_long](https://github.com/ines-sainz/so_long)       | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |         [pipex](https://github.com/ines-sainz/pipex)         | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 
