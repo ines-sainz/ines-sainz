@@ -15,12 +15,14 @@
 |     [push_swap](https://github.com/ines-sainz/push_swap)     | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |       [so_long](https://github.com/ines-sainz/so_long)       | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |         [pipex](https://github.com/ines-sainz/pipex)         | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
+|     [minishell](https://github.com/ines-sainz/minishell)     | 101/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
+
 
 <h2 align="left">Project in progress</h2>
 
 |                       Project                       |                                                      Language                                                      |
 | :-------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| [Minishell](https://github.com/BishopVK/minishell)  | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
+|                  [philosophers](#)                  | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 
 <h2 align="left">Languages and more</h2>
 
