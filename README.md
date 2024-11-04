@@ -20,9 +20,9 @@
 
 <h2 align="left">Project in progress</h2>
 
-|                       Project                       |                                                      Language                                                      |
-| :-------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-|                  [philosophers](#)                  | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
+|                           Project                           |                                                      Language                                                      |
+| :---------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| [philosophers](https://github.com/ines-sainz/philosophers)  | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 
 <h2 align="left">Languages and more</h2>
 
