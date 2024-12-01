@@ -16,13 +16,14 @@
 |       [so_long](https://github.com/ines-sainz/so_long)       | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |         [pipex](https://github.com/ines-sainz/pipex)         | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |     [minishell](https://github.com/ines-sainz/minishell)     | 101/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
+|  [philosophers](https://github.com/ines-sainz/philosophers)  | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 
 
 <h2 align="left">Project in progress</h2>
 
 |                           Project                           |                                                      Language                                                      |
 | :---------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| [philosophers](https://github.com/ines-sainz/philosophers)  | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
+|                       [netpractice](#)                      |                                                                                                                    |
 
 <h2 align="left">Languages and more</h2>
 
