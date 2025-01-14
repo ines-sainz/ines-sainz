@@ -18,18 +18,22 @@
 |     [minishell](https://github.com/ines-sainz/minishell)     | 101/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |  [philosophers](https://github.com/ines-sainz/philosophers)  | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |                       [netpractice](#)                       | 100/100 | <img src="" width="30" height="30" alt="Net"> |
-| [cpp00](https://github.com/ines-sainz/cpp00) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C"> |
-| [cpp01](https://github.com/ines-sainz/cpp01) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C"> |
-| [cpp02](https://github.com/ines-sainz/cpp02) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C"> |
-| [cpp03](https://github.com/ines-sainz/cpp03) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C"> |
-| [cpp04](https://github.com/ines-sainz/cpp04) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C"> |
+| [cpp00](https://github.com/ines-sainz/cpp00) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
+| [cpp01](https://github.com/ines-sainz/cpp01) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
+| [cpp02](https://github.com/ines-sainz/cpp02) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
+| [cpp03](https://github.com/ines-sainz/cpp03) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
+| [cpp04](https://github.com/ines-sainz/cpp04) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
 
 
 <h2 align="left">Project in progress</h2>
 
-|                           Project                           |                                                      Language                                                      |
-| :---------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-|                       [cpp05](#)                      |                                                                                                                    |
+|                           Project                           |                                                               Language                                                             |
+| :---------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
+|        [cpp05](https://github.com/ines-sainz/cpp05)         |<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">|
+|        [cpp06](https://github.com/ines-sainz/cpp06)         |<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">|
+|        [cpp07](https://github.com/ines-sainz/cpp07)         |<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">|
+|        [cpp08](https://github.com/ines-sainz/cpp08)         |<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">|
+|        [cpp09](https://github.com/ines-sainz/cpp09)         |<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">|
 
 <h2 align="left">Languages and more</h2>
 
