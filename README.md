@@ -17,7 +17,7 @@
 |         [pipex](https://github.com/ines-sainz/pipex)         | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |     [minishell](https://github.com/ines-sainz/minishell)     | 101/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
 |  [philosophers](https://github.com/ines-sainz/philosophers)  | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
-|                       [netpractice](#)                       | 100/100 | <img src="https://github.com/user-attachments/assets/86728b5a-25cb-4157-bf90-735748ec2906" width="30" height="30" alt="Net"> |
+|[netpractice](https://github.com/ines-sainz/Networking_And_System_Administration_Netpractice)| 100/100 | <img src="https://github.com/user-attachments/assets/86728b5a-25cb-4157-bf90-735748ec2906" width="30" height="30" alt="Net"> |
 | [cpp00](https://github.com/ines-sainz/cpp00) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
 | [cpp01](https://github.com/ines-sainz/cpp01) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
 | [cpp02](https://github.com/ines-sainz/cpp02) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
