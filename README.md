@@ -6,34 +6,29 @@
 
 <h2 align="left">Finished projects</h2>
 
-|                           Project                            |  Mark   |                                                      Language                                                      |
-| :----------------------------------------------------------: | :-----: | :------------------------------------------------------------------------------------------------------------: |
-|        [Libft](https://github.com/ines-sainz/libft)          | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
-| [get_next_line](https://github.com/ines-sainz/get_next_line) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
-|          [printf](https://github.com/ines-sainz/printf)      | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
-|                       [born2beroot](#)                       | 125/100 | <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/console.svg" width="30" height="30"> |
-|     [push_swap](https://github.com/ines-sainz/push_swap)     | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
-|       [so_long](https://github.com/ines-sainz/so_long)       | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
-|         [pipex](https://github.com/ines-sainz/pipex)         | 125/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
-|     [minishell](https://github.com/ines-sainz/minishell)     | 101/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
-|  [philosophers](https://github.com/ines-sainz/philosophers)  | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C"> |
-|[netpractice](https://github.com/ines-sainz/Networking_And_System_Administration_Netpractice)| 100/100 | <img src="https://github.com/user-attachments/assets/86728b5a-25cb-4157-bf90-735748ec2906" width="30" height="30" alt="Net"> |
-| [cpp00](https://github.com/ines-sainz/cpp00) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
-| [cpp01](https://github.com/ines-sainz/cpp01) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
-| [cpp02](https://github.com/ines-sainz/cpp02) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
-| [cpp03](https://github.com/ines-sainz/cpp03) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
-| [cpp04](https://github.com/ines-sainz/cpp04) | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
-
+|                           Project                            |                        Description                       |  Mark   |                                                               Language                                                               |
+| :----------------------------------------------------------: | :------------------------------------------------------: | :-----: | :----------------------------------------------------------------------------------------------------------------------------------: |
+|        [Libft](https://github.com/ines-sainz/Libft)          |                   Library of C functions                 | 125/100 |          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C">          |
+| [get_next_line](https://github.com/ines-sainz/Get_Next_Line) |    Function to read the next line of a file descriptor   | 100/100 |          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C">          |
+|          [printf](https://github.com/ines-sainz/Printf)      |    Function to write something in the standard output    | 100/100 |          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C">          |
+|                       [born2beroot](#)                       |        Creation of a Virtual Machine in VirtualBox       | 125/100 |          <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/console.svg" width="30" height="30">          |
+|     [push_swap](https://github.com/ines-sainz/Push_Swap)     |     Program to sort numbers with a sorting algorithm     | 125/100 |          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C">          |
+|       [so_long](https://github.com/ines-sainz/So_Long)       |                    Interative 2D Grame                   | 125/100 |          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C">          |
+|         [pipex](https://github.com/ines-sainz/Pipex)         | Program to execute two commands linking them with a pipe | 125/100 |          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C">          |
+|     [minishell](https://github.com/ines-sainz/Minishell)     |                  Bash Like Terminal in C                 | 101/100 |          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C">          |
+|  [philosophers](https://github.com/ines-sainz/Philosophers)  |                 Simulation using threads                 | 100/100 |          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C">          |
+|   [netpractice](https://github.com/ines-sainz/Netpractice)   |             Networking Connection Simulation             | 100/100 |     <img src="https://github.com/user-attachments/assets/86728b5a-25cb-4157-bf90-735748ec2906" width="30" height="30" alt="Net">     |
+|   [cpp00-cpp04](https://github.com/ines-sainz/cpp_00_to_04)  |                       C++ Programs                       | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
+|   [cpp05-cpp09](https://github.com/ines-sainz/cpp_05_to_09)  |                       C++ Programs                       | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"> |
+|                          [Cub3D](#)                          |                  Wolfestein Like 3D Game                 | 100/100 |          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C">          |
 
 <h2 align="left">Project in progress</h2>
 
-|                           Project                           |                                                               Language                                                             |
-| :---------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
-|        [cpp05](https://github.com/ines-sainz/cpp05)         |<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">|
-|        [cpp06](https://github.com/ines-sainz/cpp06)         |<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">|
-|        [cpp07](https://github.com/ines-sainz/cpp07)         |<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">|
-|        [cpp08](https://github.com/ines-sainz/cpp08)         |<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">|
-|        [cpp09](https://github.com/ines-sainz/cpp09)         |<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">|
+|                           Project                           |               Description              |   Language   |
+| :---------------------------------------------------------: | :------------------------------------: | :----------: |
+|                      [Inception](#)                         | Docker Containers runned by a Makefile |    Docker    |
+|                       [Webserv](#)                          |            Web Server in C++           |      C++     |
+
 
 <h2 align="left">Languages and more</h2>
 
