@@ -21,12 +21,13 @@
 | [cpp05-cpp09](https://github.com/ines-sainz/cpp_05_to_09)    | C++ Programs                                             | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">   |
 | [Cub3D](#)                                                   | Wolfestein Like 3D Game                                  | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="30" height="30" alt="C">                     |
 | [Inception](https://github.com/ines-sainz/Inception)         | Docker Containers with Docker Compose run by a Makefile  | 100/100 | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="30" height="30" alt="Docker"> |
+| [Webserv](https://github.com/BishopVK/Webserv)               | Web Server in C++                                        | 100/100 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++">   |
 
 <h2 align="left">Project in progress</h2>
 
-|    Project   |    Description    |   Language   |
-| :----------: | :---------------: | :----------: |
-| [Webserv](#) | Web Server in C++ | C++          |
+|                          Project                             |  Description | Language |
+| :----------------------------------------------------------: | :----------: | :------: |
+| [Transcendence](https://github.com/zenix-s/ft_transcendence) | Complete App |   All    |
 
 
 <h2 align="left">Languages and more</h2>
