@@ -1,5 +1,5 @@
 <h1 align="center">Inés Sainz Ramón</h1>
-<p align="center">I'm currently a student in 42Madrid. @isainz-r. I did the Piscine in November 2023 and started the Cursus in January 2024.</p>
+<p align="center">I'm currently a student in 42Madrid. @isainz-r. I did the Piscine in November 2023 and finished the Cursus in January 2026.</p>
 
 <h1 align="center">42 Madrid Cursus</h1>
 
